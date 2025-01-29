@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/usaia-logo.png",
-        "altText": "Logo dark",
+        "altText": "usaia",
         "styles": {
             "self": {
                 "margin": [
